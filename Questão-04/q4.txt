@@ -1,0 +1,8 @@
+p = i;
+Incorreto: precisa do & no i para ser uma atribuição legal.
+
+i = (*&)j;
+Incorreto: i não consegue receber o valor do endereço, pois o j está fora dos parênteses.
+
+q = *p;
+Incorreto: Houve uma incompatibilidade de tipos.

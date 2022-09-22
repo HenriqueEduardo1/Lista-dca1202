@@ -1,0 +1,37 @@
+Idealizado:
+
+x for declarado como char:
+
+x[0] = 4092
+x + 1 = 4093
+x + 2 = 4094
+x + 3 = 4095
+
+x for declarado como int:
+
+x[0] -> 4092
+x + 1 -> 4094
+x + 2 -> 4096
+x + 3 -> 4098
+
+x for declarado como float:
+
+x[0] -> 4092
+x + 1 -> 4096
+x + 2 -> 4100
+x + 3 -> 4104
+
+x for declarado como double:
+
+x[0] -> 4092
+x + 1 -> 4100
+x + 2 -> 4108
+x + 3 -> 4116
+
+
+Programa:
+
+char = 000000000061FE18, int = 0000000000000000, float = 000000000061FDF0, double = 000000000061FDD0
+char = 000000000061FE19, int = 0000000000000002, float = 000000000061FDF4, double = 000000000061FDD8
+char = 000000000061FE1A, int = 0000000000000004, float = 000000000061FDF8, double = 000000000061FDE0
+char = 000000000061FE1B, int = 0000000000000006, float = 000000000061FDFC, double = 000000000061FDE8

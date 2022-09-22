@@ -1,0 +1,2 @@
+Ponteiro é um recurso muito poderoso para a eng. de computação, ela possui várias aplicações e dentre elas a
+a otimização de códigos é onde mais se aplica os conceitos de ponteiros.

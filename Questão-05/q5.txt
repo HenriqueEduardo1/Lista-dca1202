@@ -1,0 +1,17 @@
+Após o código ser compilado e executado verificou-se que os 
+valores obtidos corresponderam ao que era esperado. Foi obtido
+a seguinte sequência de respostas:
+
+a) 20
+b) 29.0
+c) p
+d) e
+e) p
+f) e
+g) t
+h) 31
+i) 45
+j) 27
+l) 31
+m) 45
+n) 27

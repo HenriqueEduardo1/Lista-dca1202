@@ -1,0 +1,62 @@
+Saída teste 1:
+
+Quantos numeros serao inseridos?
+5
+Numero 1:7
+Numero 2:2
+Numero 3:67
+Numero 4:-2
+Numero 5:97
+
+Tempo do hSort: 0.002000
+Ordem crescente: -2.0 2.0 7.0 67.0 97.0
+
+Tempo do qsort: 0.003000
+Ordem crescente: -2.0 2.0 7.0 67.0 97.0
+
+Saída teste 2:
+
+Quantos numeros serao inseridos?
+10
+Numero 1:5
+Numero 2:6
+Numero 3:7
+Numero 4:9
+Numero 5:23
+Numero 6:6
+Numero 7:1093
+Numero 8:973
+Numero 9:-91
+Numero 10:-192
+
+Tempo do hSort: 0.002000
+Ordem crescente: -192.0 -91.0 5.0 6.0 6.0 7.0 9.0 23.0 973.0 1093.0
+
+Tempo do qsort: 0.002000
+Ordem crescente: -192.0 -91.0 5.0 6.0 6.0 7.0 9.0 23.0 973.0 1093.0
+
+Saída teste 3:
+
+Quantos numeros serao inseridos?
+15
+Numero 1:9
+Numero 2:2
+Numero 3:5
+Numero 4:7
+Numero 5:98
+Numero 6:123
+Numero 7:65
+Numero 8:4
+Numero 9:8
+Numero 10:9
+Numero 11:-12
+Numero 12:-49
+Numero 13:-18
+Numero 14:129
+Numero 15:593
+
+Tempo do hSort: 0.003000
+Ordem crescente: -49.0 -18.0 -12.0 2.0 4.0 5.0 7.0 8.0 9.0 9.0 65.0 98.0 123.0 129.0 593.0
+
+Tempo do qsort: 0.003000
+Ordem crescente: -49.0 -18.0 -12.0 2.0 4.0 5.0 7.0 8.0 9.0 9.0 65.0 98.0 123.0 129.0 593.0

@@ -1,0 +1,2 @@
+Apenas a expressão *(pulo + 2) referencia o valor do terceiro elemento do vetor.
+A expressão pulo + 2; referencia apenas o endereço do terceiro elemento do vetor.

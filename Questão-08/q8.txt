@@ -1,0 +1,9 @@
+A expressão p = mat + 1; é válida.
+A posição de memória que o vetor mat ocupa é acrescida de um byte e logo a pós p recebe esse endereço.
+
+A expressão p = mat++; não é válida.
+
+A expressão p = ++mat; não é válida.
+
+A expressão x = (*mat)++; é válida.
+x recebe o valor de mat[0] incrementado em 1.
